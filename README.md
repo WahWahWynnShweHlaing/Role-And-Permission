@@ -1,7 +1,5 @@
-# Laravel Multiple Authentication
-A simple implementation of multiple authentication in Laravel.
-
-To follow along, this application has been documented as an article on Pusher blog. You can read about it [here](https://pusher.com/tutorials/multiple-authentication-guards-laravel)
+# Laravel Role And Permission
+A simple implementation of laravel 8 spatie user roles and permissions.
 
 ## Set up
 To set up this project, first clone the repositiory
