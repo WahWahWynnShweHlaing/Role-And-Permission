@@ -47,6 +47,11 @@ php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvid
 ```bash
 php artisan migrate:fresh
 ```
+```bash
+npm install
+npm run dev
+```
+
 Add Laravel's basic auth
 ```bash
 composer require laravel/ui --dev
